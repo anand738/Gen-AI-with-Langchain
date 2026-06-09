@@ -1,0 +1,51 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+openai
+
+# Anthropic Claude
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Groq
+langchain-groq
+groq
+
+# Environment Variables
+python-dotenv
+
+# Machine Learning & Data Science
+numpy
+scikit-learn
+pandas
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Web Apps
+streamlit
+
+# Tokenization
+tiktoken
+
+# Vector Databases (commonly used in LangChain/RAG)
+faiss-cpu
+chromadb
+
+# Utilities
+requests
+pydantic
