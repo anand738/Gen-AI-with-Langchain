@@ -1,4 +1,4 @@
-from langchain_community.document_loaders import PyPDFLoader
+    from langchain_community.document_loaders import PyPDFLoader
 
 loader = PyPDFLoader(r'9.DocumentLoaders\RAG.pdf')
 
